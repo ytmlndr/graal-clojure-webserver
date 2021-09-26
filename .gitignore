@@ -1,12 +1,3 @@
-app/target
-app/classes
-app/checkouts
-app/profiles.clj
-app/pom.xml
-app/pom.xml.asc
-app/*.jar
-app/*.class
-app/.lein-*
-app/.nrepl-port
-app/.prepl-port
+./target
+**/*.jar
 *.iml
